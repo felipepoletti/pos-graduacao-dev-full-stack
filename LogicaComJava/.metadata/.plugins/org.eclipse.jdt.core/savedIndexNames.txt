@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Estudos\pos-graduacao-dev-full-stack\LogicaComJava\.metadata\.plugins\org.eclipse.jdt.core
+3498066710.index
+2380175872.index
+3413725848.index
+1184873921.index
